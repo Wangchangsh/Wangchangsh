@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
  I am a phd student of **HZAU**, Wuhan, China, major in **Molecular Genetics**.
  
-Sometimes I wrte articles on [my blog](https://wangchangsheng.netlify.app/).
+Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
