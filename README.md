@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![geneticmap](https://cdn.jsdelivr.net/gh/Wangchangsh/image@main/molgenetics/Drosophila_Gene_Linkage_Map.6k3x642vc8c0.webp)
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wangchangsh&show_icons=true&hide_border=true&include_all_commits=true" width="480px">
      
 I am a phd student of **HZAU**, Wuhan, China, major in **Molecular Genetics**.
- 
-![geneticmap](https://cdn.jsdelivr.net/gh/Wangchangsh/image@main/molgenetics/Drosophila_Gene_Linkage_Map.6k3x642vc8c0.webp) 
 
 Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
