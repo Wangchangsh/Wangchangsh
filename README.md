@@ -26,7 +26,7 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
 
 **🐱 My GitHub Data** 
 
@@ -69,16 +69,16 @@ Sunday       35 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    40 hrs 36 mins      █████████████████████████   100.0%
+Other                    21 hrs 54 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  40 hrs 36 mins      █████████████████████████   100.0%
+Browser                  21 hrs 54 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          40 hrs 36 mins      █████████████████████████   100.0%
+Unknown Project          21 hrs 54 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  40 hrs 36 mins      █████████████████████████   100.0%
+Windows                  21 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +97,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 18:42:43 UTC
+ Last Updated on 31/03/2022 18:43:11 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
