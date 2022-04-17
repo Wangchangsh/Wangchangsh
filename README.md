@@ -30,7 +30,7 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 **🐱 My GitHub Data** 
 
-> 🏆 50 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 61.4 kB Used in GitHub's Storage 
  > 
@@ -69,16 +69,16 @@ Sunday       35 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 49 mins       █████████████████████████   100.0%
+Other                    2 hrs 55 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  6 hrs 49 mins       █████████████████████████   100.0%
+Browser                  2 hrs 55 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 49 mins       █████████████████████████   100.0%
+Unknown Project          2 hrs 55 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 49 mins       █████████████████████████   100.0%
+Windows                  2 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +97,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/04/2022 18:43:20 UTC
+ Last Updated on 17/04/2022 18:42:27 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
