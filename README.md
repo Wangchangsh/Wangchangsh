@@ -26,13 +26,13 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 50 Contributions in the Year 2022
+> 🏆 52 Contributions in the Year 2022
  > 
 > 📦 61.4 kB Used in GitHub's Storage 
  > 
@@ -45,22 +45,22 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
-🌆 Daytime    41 commits     █████████░░░░░░░░░░░░░░░░   38.32% 
-🌃 Evening    55 commits     ████████████░░░░░░░░░░░░░   51.4% 
+🌞 Morning    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
+🌆 Daytime    41 commits     █████████░░░░░░░░░░░░░░░░   37.61% 
+🌃 Evening    57 commits     █████████████░░░░░░░░░░░░   52.29% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
-Tuesday      22 commits     █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-Wednesday    24 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
-Thursday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
-Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
-Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-Sunday       35 commits     ████████░░░░░░░░░░░░░░░░░   32.71%
+Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
+Tuesday      22 commits     █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+Wednesday    24 commits     █████░░░░░░░░░░░░░░░░░░░░   22.02% 
+Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
+Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83% 
+Sunday       35 commits     ████████░░░░░░░░░░░░░░░░░   32.11%
 
 ```
 
@@ -99,7 +99,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:45:39 UTC
+ Last Updated on 12/05/2022 18:47:54 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
