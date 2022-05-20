@@ -71,16 +71,16 @@ Sunday       35 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 25 mins             █████████████████████████   100.0%
+Markdown                 10 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
+VS Code                  10 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-writing                  25 mins             █████████████████████████   100.0%
+writing                  10 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.0%
+Windows                  10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -99,7 +99,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 18:51:37 UTC
+ Last Updated on 20/05/2022 18:45:42 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
