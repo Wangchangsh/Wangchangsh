@@ -34,7 +34,7 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 > 🏆 61 Contributions in the Year 2022
  > 
-> 📦 61.8 kB Used in GitHub's Storage 
+> 📦 61.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +99,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 18:43:33 UTC
+ Last Updated on 23/05/2022 18:46:43 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
