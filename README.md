@@ -28,7 +28,7 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,17 +71,17 @@ Sunday       35 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 mins             █████████████████████████   100.0%
+Markdown                 31 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+VS Code                  31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-writing                  10 mins             █████████████████████████   99.55% 
-Dockerfile               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+writing                  30 mins             █████████████████████████   99.84% 
+Dockerfile               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.0%
+Windows                  31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +100,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/06/2022 18:42:27 UTC
+ Last Updated on 08/06/2022 18:43:04 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
