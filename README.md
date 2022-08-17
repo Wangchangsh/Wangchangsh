@@ -26,41 +26,41 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 67 Contributions in the Year 2022
+> 🏆 81 Contributions in the Year 2022
  > 
-> 📦 62.0 kB Used in GitHub's Storage 
+> 📦 63.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
-🌆 Daytime    42 commits     ████████░░░░░░░░░░░░░░░░░   33.87% 
-🌃 Evening    60 commits     ████████████░░░░░░░░░░░░░   48.39% 
+🌞 Morning    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
+🌆 Daytime    44 commits     ████████░░░░░░░░░░░░░░░░░   32.12% 
+🌃 Evening    70 commits     ████████████░░░░░░░░░░░░░   51.09% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Tuesday      22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
-Wednesday    29 commits     █████░░░░░░░░░░░░░░░░░░░░   23.39% 
-Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-Sunday       35 commits     ███████░░░░░░░░░░░░░░░░░░   28.23%
+Monday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
+Wednesday    38 commits     ███████░░░░░░░░░░░░░░░░░░   27.74% 
+Thursday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
+Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
+Sunday       37 commits     ██████░░░░░░░░░░░░░░░░░░░   27.01%
 
 ```
 
@@ -99,7 +99,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 18:46:50 UTC
+ Last Updated on 17/08/2022 18:46:20 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
