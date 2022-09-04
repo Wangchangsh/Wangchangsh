@@ -26,7 +26,7 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,48 +42,6 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
-🌆 Daytime    44 commits     ████████░░░░░░░░░░░░░░░░░   32.12% 
-🌃 Evening    70 commits     ████████████░░░░░░░░░░░░░   51.09% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
-Wednesday    38 commits     ███████░░░░░░░░░░░░░░░░░░   27.74% 
-Thursday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
-Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
-Sunday       37 commits     ██████░░░░░░░░░░░░░░░░░░░   27.01%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in R** 
 
 ```text
@@ -99,7 +57,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:44:58 UTC
+ Last Updated on 04/09/2022 18:44:44 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
