@@ -42,6 +42,48 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+🌆 Daytime    46 commits     ████████░░░░░░░░░░░░░░░░░   32.39% 
+🌃 Evening    73 commits     ████████████░░░░░░░░░░░░░   51.41% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+Wednesday    38 commits     ██████░░░░░░░░░░░░░░░░░░░   26.76% 
+Thursday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
+Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+Sunday       42 commits     ███████░░░░░░░░░░░░░░░░░░   29.58%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in R** 
 
 ```text
@@ -57,7 +99,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 18:49:46 UTC
+ Last Updated on 15/09/2022 18:49:23 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
