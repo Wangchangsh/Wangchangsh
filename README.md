@@ -26,15 +26,11 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2025%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 124 Contributions in the Year 2022
+> 🏆 128 Contributions in the Year 2022
  > 
-> 📦 67.0 kB Used in GitHub's Storage 
+> 📦 66.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,6 +38,29 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+🌆 Daytime    58 commits     ████████░░░░░░░░░░░░░░░░░   32.22% 
+🌃 Evening    95 commits     █████████████░░░░░░░░░░░░   52.78% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Wednesday    44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.44% 
+Thursday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Friday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
+Saturday     6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+Sunday       42 commits     █████░░░░░░░░░░░░░░░░░░░░   23.33%
+
+```
+
+
 **I Mostly Code in R** 
 
 ```text
@@ -52,12 +71,8 @@ HTML                     1 repo              ████████░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Wangchangsh/Wangchangsh/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 18:44:46 UTC
+ Last Updated on 24/11/2022 14:56:46 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
