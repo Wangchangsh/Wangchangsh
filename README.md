@@ -28,7 +28,7 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 130 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 67.0 kB Used in GitHub's Storage 
  > 
@@ -72,7 +72,7 @@ HTML                     1 repo              ████████░░░�
 
 
 
- Last Updated on 31/12/2022 18:33:55 UTC
+ Last Updated on 01/01/2023 18:34:15 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
