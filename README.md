@@ -30,6 +30,8 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 > 📦 69.2 kB Used in GitHub's Storage 
  > 
+> 🏆 1 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -68,7 +70,7 @@ R                        1 repo              ████████░░░�
 
 
 
- Last Updated on 07/11/2024 18:40:14 UTC
+ Last Updated on 08/11/2024 18:40:27 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
