@@ -30,33 +30,14 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 
 > 📦 69.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-🌆 Daytime                63 commits          ████████░░░░░░░░░░░░░░░░░   31.66 % 
-🌃 Evening                105 commits         █████████████░░░░░░░░░░░░   52.76 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Tuesday                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Wednesday                47 commits          ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Sunday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-```
-
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -68,7 +49,7 @@ R                        1 repo              ████████░░░�
 
 
 
- Last Updated on 15/09/2025 18:44:03 UTC
+ Last Updated on 16/09/2025 18:43:33 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
