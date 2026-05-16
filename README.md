@@ -28,9 +28,9 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 69.4 kB Used in GitHub's Storage 
+> 📦 149.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,18 +38,39 @@ Sometimes I write articles on [my blog](https://wangchangsheng.netlify.app/).
  > 
 > 🔑 1 Private Repositories 
  > 
-**I Mostly Code in HTML** 
+**I'm a Night 🦉** 
 
 ```text
-HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Dockerfile               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-R                        1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌞 Morning                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌆 Daytime                64 commits          ████████░░░░░░░░░░░░░░░░░   32.00 % 
+🌃 Evening                105 commits         █████████████░░░░░░░░░░░░   52.50 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                47 commits          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Sunday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+```
+
+
+**I Mostly Code in R** 
+
+```text
+R                        2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Dockerfile               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
 
 
- Last Updated on 15/05/2026 19:56:55 UTC
+ Last Updated on 16/05/2026 19:37:01 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
